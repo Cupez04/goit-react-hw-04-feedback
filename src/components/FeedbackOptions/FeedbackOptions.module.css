@@ -1,0 +1,16 @@
+.button{
+    padding: 10px;
+    margin-right: 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+    color: #757575;
+    border: 1px solid transparent;
+}
+.title{
+    text-align: center;
+    color: rgb(111, 0, 255);
+}
+.container{
+    padding: 30px;
+}
